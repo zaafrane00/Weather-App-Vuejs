@@ -1,5 +1,7 @@
 # weather_app
 
+This project is meant to be demo for detecting weather using your location applying Vue js and OpenWeatherMap Api
+
 ## Project setup
 ```
 npm install
